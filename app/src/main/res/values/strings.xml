@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyNewsApplication</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nationalNews">Gladstone mall reopens after 3-month closure</string>
+    <string name="politicsNews">Smith announces policy changes for workers</string>
+    <string name="intlNews">Continuous heavy rain worsens flood in Valtoria</string>
+    <string name="celebNews">Anna N announces tour across 30 cities</string>
+    <string name="nationalNewsDesc">MELOBIN, Austoria - Gladstone mall, the largest shopping mall in Austoria has finally reopened following a 3-month closure due to the COBOL-19 pandemic. The pandemic, which has led to the closure of hundreds of businesses across the country in the past 3 years, has caused a significant impact on the nation\'s economy. With the reopening of Gladstone mall, business owners are filled with hope and it is anticipated that economy will make a slow but steady recovery.</string>
+    <string name="politicsNewsDesc">CANBURRY, Austoria - Smith has announced new changes to policies for workers in the construction and agricultural sectors. These changes involve changes in wages and working hours on top of revising worker benefits. According to Smith, these changes aim to alleviate worker concerns and attract more skilled workers in these sectors to contribute to the growth of Austoria. Full details of these changes will be announced in the press conference tomorrow evening.</string>
+    <string name="intlNewsDesc">DANEVE, Valtoria - The town of 50,000 people has been stricken with continuous heavy rain for the past week, causing heavy floods throughout the area. The floods have caused immense damage and at least 25 casualties, with about 1,500 people forced to evacuate their homes. The government of Valtoria is providing shelter for the affected families, with aid from neighbouring countries Ganaria and Lothios. The rain is forecasted to continue for at least another week. </string>
+    <string name="celebNewsDesc">JOLLYWOOD, ASA - Pop sensation Anna N has announced a grand tour across 30 cities all over the country with the release of her new album "Sensation". Her album, since its release 7 days ago, has sold a whopping 1 million copies. Anna N cites her recent experiences were the source of inspiration for her new album, especially the title track "Love Me". "I wrote the lyrics while thinking about the times all I wanted to do was to sit still and appreciate everything", she remarked in an interview. </string>
+    <string-array name="verticalNewsTitles">
+        <item>Solar Eclipse </item>
+        <item>Negotiations </item>
+        <item>Demonstrations </item>
+        <item>Beta Acquisition</item>>
+        <item>Football</item>
+    </string-array>
+    >
+
+    <string-array name="verticalNewsDescriptions">
+        <item>Solar Eclipse witnessed throughout Austoria and New Zaberland</item>
+        <item>Presidents of Rondia and Yukaria meet for peace negotiations.</item>
+        <item>Climate change demonstrations happening across Melobin and Synne</item>
+        <item>Tech company Beta acquired by giant company Rainforest upon deal agreement</item>>
+        <item>Football semi-finals to take place tonight between Brozia and Argotis</item>
+    </string-array>
+    >
+
+</resources>
